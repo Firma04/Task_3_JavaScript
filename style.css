@@ -1,0 +1,19 @@
+.conteiner{
+    width: 70%;
+    height: auto;
+    text-align: center;
+    position: relative;
+/*    border: 1px solid black; */
+    margin: auto;
+}
+.button-conteiner{
+    position: flex;
+    padding-top: 4%;
+    
+}
+.one-button, .two-button{
+    width: 100px;
+    height: 30px;
+    background: rgb(138, 134, 134);
+    color: aqua;
+}
